@@ -66,11 +66,14 @@ The Automated Contention Form PoC provides a simple, user-friendly interface to 
 
 ## Results
 
-1. BSE Contention Form
-![image](https://github.com/user-attachments/assets/7dc13bc3-3c50-40c6-bea8-8519b859ab3d)
+1. Contention Form
+![image](https://github.com/user-attachments/assets/791f9b05-d765-4568-b432-fcae18c3a4c9)
 
-2. BSE Contention History
-![image](https://github.com/user-attachments/assets/5d24b6b9-d3e3-499b-a81d-1c529577b4cb)
+2. Contention History
+![image](https://github.com/user-attachments/assets/a9b23241-0335-403b-b9d3-fab519176e54)
+
+3. Page Dashboard
+![image](https://github.com/user-attachments/assets/a2ad7552-3d03-4a0e-8ee9-b34b7ff1367a)
 
 
 We welcome contributions to enhance functionality, fix bugs, or improve documentation.
