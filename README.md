@@ -10,8 +10,11 @@ By combining MS SQL’s robust database capabilities with Streamlit’s intuitiv
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Installation](#installation)
-- [Conceptual Diagram](#conceptual-diagram)
+- [Configuration](#configuration)
 - [Usage](#usage)
+- [Conceptual Diagram](#conceptual-diagram)
+- [Results](#results)
+
 
 ## Overview
 The Automated Contention Form PoC provides a simple, user-friendly interface to manage contention forms efficiently. This solution aims to reduce manual processing time and increase accuracy, offering a scalable and reliable foundation for potential full-scale deployment.
@@ -61,6 +64,13 @@ The Automated Contention Form PoC provides a simple, user-friendly interface to 
 ## Conceptual Diagram
 ![image](https://github.com/user-attachments/assets/cffcc0c3-449e-466a-971e-6b842257076a)
 
+## Results
+
+1. BSE Contention Form
+![image](https://github.com/user-attachments/assets/7dc13bc3-3c50-40c6-bea8-8519b859ab3d)
+
+2. BSE Contention History
+![image](https://github.com/user-attachments/assets/5d24b6b9-d3e3-499b-a81d-1c529577b4cb)
 
 
 We welcome contributions to enhance functionality, fix bugs, or improve documentation.
