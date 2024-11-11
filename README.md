@@ -73,7 +73,7 @@ The Automated Contention Form PoC provides a simple, user-friendly interface to 
 ![image](https://github.com/user-attachments/assets/a9b23241-0335-403b-b9d3-fab519176e54)
 
 3. Page Dashboard
-![image](https://github.com/user-attachments/assets/a2ad7552-3d03-4a0e-8ee9-b34b7ff1367a)
+![image](https://github.com/user-attachments/assets/72d22c4c-b996-4157-bdc2-e9ee71535d76)
 
 
 We welcome contributions to enhance functionality, fix bugs, or improve documentation.
