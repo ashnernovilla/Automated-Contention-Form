@@ -1,2 +1,4 @@
 # Automated-Contention-Form
-The Automated Contention Form PoC for BSE at BPI AIA is a streamlined solution designed to test the feasibility of automating contention form management. T
+The Automated Contention Form PoC for BSE at BPI AIA is a streamlined solution designed to test the feasibility of automating contention form management. This Proof of Concept uses MS SQL as the database management backbone, ensuring reliable data storage and efficient querying. A Python-based interface, built with Streamlit, allows users to easily input, view, and update forms in real-time.
+
+By combining MS SQL’s robust database capabilities with Streamlit’s intuitive, web-accessible interface, the PoC enables users to test end-to-end functionality, including data entry and retrieval, with minimal manual handling. This streamlined process aims to reduce form processing time and enhance overall accuracy, providing a scalable foundation for future implementation across the organization.
